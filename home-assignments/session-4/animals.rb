@@ -1,5 +1,3 @@
-  animals_list=[]
-
   class Animal
   attr_reader :name, :color
   def initialize(name, color)
